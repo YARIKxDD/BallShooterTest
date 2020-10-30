@@ -1,2 +1,0 @@
-# BallShooterTest
-For test
